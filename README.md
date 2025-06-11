@@ -65,6 +65,4 @@
 
 ### "Building the web, one commit at a time" 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=cjcode6754&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
 </div>
