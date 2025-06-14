@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Finance Flow** - a financial management platform
+- 🔭 Currently building **Trendora** - a e-commerce website (TypeScript, Inertia, Laravel, Shadcn)
 - 🌱 Deep diving into **Laravel** and **React** ecosystems  
 - 💼 Portfolio: **[View My Work](example.link)**
 - 📧 Let's connect: **ceejayibabiosa@gmail.com**
