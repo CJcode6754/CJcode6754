@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Trendora** - a e-commerce website (TypeScript, Inertia, Laravel, Shadcn)
+- 🔭 Currently building **MediMeet** - a full-stack doctors appointment website
 - 🌱 Deep diving into **Laravel** and **React** ecosystems  
 - 💼 Portfolio: **[View My Work](example.link)**
 - 📧 Let's connect: **ceejayibabiosa@gmail.com**
