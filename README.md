@@ -14,7 +14,6 @@
 - 🌱 Deep diving into **Laravel** and **React** ecosystems  
 - 💼 Portfolio: **[View My Work](https://ceejay-portfolio.vercel.app)**
 - 📧 Let's connect: **ceejayibabiosa@gmail.com**
-- 📄 My Resume: **[Download Resume](resume-link)**
 
 ---
 
