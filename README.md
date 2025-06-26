@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Car_Color_Configuration_Website** - a full-stack doctors appointment website
+- 🔭 Currently building **MERN BLOG WEBSITE With GOOGLE GEMINI** - a full-stack doctors appointment website
 - 🌱 Deep diving into **Laravel** and **React** ecosystems  
 - 💼 Portfolio: **[View My Work](https://ceejay-portfolio.vercel.app)**
 - 📧 Let's connect: **ceejayibabiosa@gmail.com**
