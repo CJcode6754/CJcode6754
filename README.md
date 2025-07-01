@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **MERN BLOG WEBSITE With GOOGLE GEMINI API** - a full-stack doctors appointment website
+- 🔭 Currently building **MERN BLOG WEBSITE With GOOGLE GEMINI API**
 - 🌱 Deep diving into **PHP**, **Laravel** and **React** ecosystems  
 - 💼 Portfolio: **[View My Work](https://ceejay-portfolio.vercel.app)**
 - 📧 Let's connect: **ceejayibabiosa@gmail.com**
