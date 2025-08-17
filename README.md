@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working with Commissions
+- 🔭 Currently working with Commission
 - 🌱 Deep diving into **PHP**, **Laravel** and **React** ecosystems  
 - 💼 Portfolio: **[View My Portfolio](https://ceejay-portfolio.vercel.app)**
 - 📧 Let's connect: **ceejayibabiosa@gmail.com**
