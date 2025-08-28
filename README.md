@@ -1,59 +1,104 @@
-# Hi there, I'm Ceejay Ibabiosa 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> Hey there, I'm **Ceejay Ibabiosa**
 
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Web+Developer+from+Philippines;Building+Amazing+Digital+Experiences;Laravel+%26+React+Enthusiast)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Web+Developer+%E2%9A%A1+Philippines;Laravel+%7C+React+%7C+Full+Stack;Building+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 
-- 🔭 Currently working with Commissions
-- 🌱 Deep diving into **PHP**, **Laravel** and **React** ecosystems  
-- 💼 Portfolio: **[View My Portfolio](https://ceejay-portfolio.vercel.app)**
-- 📧 Let's connect: **ceejayibabiosa@gmail.com**
+<img align="right" alt="Coding" width="350" height="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```typescript
+const ceejay = {
+  role: "Full Stack Developer",
+  location: "Philippines 🇵🇭",
+  focus: ["Laravel", "React", "Modern Web Tech"],
+  currentWork: "Commission-based projects",
+  passion: "Turning ideas into digital experiences",
+  email: "ceejayibabiosa@gmail.com",
+  portfolio: "ceejay-portfolio.vercel.app",
+  learning: ["Advanced Laravel", "React Ecosystem", "Cloud Architecture"],
+  motto: "Code with purpose, design with passion"
+};
+```
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ **Tech Arsenal**
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### 🎯 **Core Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,react,nodejs,express&theme=dark" alt="Core Tech" />
+</p>
 
-### Design & Database
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🎨 **Frontend & Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma&theme=dark" alt="Frontend" />
+</p>
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+### 🗄️ **Database & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" alt="Database" />
+</p>
+
+### 🛠️ **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vercel,postman,vscode&theme=dark" alt="Tools" />
+</p>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cjcode6754&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Ceejay's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjcode6754&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img width="70%" height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=cjcode6754&custom_title=Ceejay's%20Activity%20Graph&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
+</div>
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+<a href="https://ceejay-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:ceejayibabiosa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/ceejay-ibabiosa-206052292" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjcode6754&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+*✨ Open to collaborations and exciting opportunities! ✨*
+
+**⭐ Star my repositories if you find them interesting!**
+
 </div>
 
 ---
 
 <div align="center">
-
-### "Building the web, one commit at a time" 🚀
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer" />
 </div>
