@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Web+Developer+%E2%9A%A1+Philippines;Laravel+%7C+React+%7C+Full+Stack;Building+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&height=80&lines=Web+Developer+%E2%9A%A1+Philippines;Laravel+%7C+React+%7C+Full+Stack;Building+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@ const ceejay = {
   passion: "Turning ideas into digital experiences",
   email: "ceejayibabiosa@gmail.com",
   portfolio: "ceejay-portfolio.vercel.app",
-  learning: ["Advanced Laravel", "React Ecosystem", "Cloud Architecture"],
+  learning: ["Advanced Laravel", "React Ecosystem"],
   motto: "Code with purpose, design with passion"
 };
 ```
