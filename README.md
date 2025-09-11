@@ -65,9 +65,9 @@ const ceejay = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjcode6754&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Most Used Languages" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="70%" height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=cjcode6754&custom_title=Ceejay's%20Activity%20Graph&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
-</div>
+</div> -->
 
 ---
 
