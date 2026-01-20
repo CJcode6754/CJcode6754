@@ -17,7 +17,7 @@ const ceejay = {
   role: "Full Stack Developer",
   location: "Philippines 🇵🇭",
   focus: ["Laravel", "React", "Modern Web Tech"],
-  currentWork: "Commission-based projects",
+  currentWork: "Junior Developer",
   passion: "Turning ideas into digital experiences",
   email: "ceejayibabiosa@gmail.com",
   portfolio: "ceejay-portfolio.vercel.app",
