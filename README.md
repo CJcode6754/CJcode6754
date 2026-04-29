@@ -20,7 +20,7 @@ const ceejay = {
   currentWork: "Junior Developer",
   passion: "Turning ideas into digital experiences",
   email: "ceejayibabiosa@gmail.com",
-  portfolio: "ceejay-portfolio.vercel.app",
+  portfolio: "[ceejay-portfolio.vercel.app](https://ceejayibabiosa.vercel.app/)",
   learning: ["Advanced Laravel", "React Ecosystem"],
   motto: "Code with purpose, design with passion"
 };
